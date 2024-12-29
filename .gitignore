@@ -4,3 +4,8 @@ oculus-frc-streamer_*/
 # Ignore .apk and .zip files
 *.apk
 *.zip
+
+# Ignore aider and env files
+.aider*
+.env
+.python-version
